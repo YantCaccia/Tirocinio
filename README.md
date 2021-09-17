@@ -1,2 +1,2 @@
 # Tirocinio
-storing Colab notebooks
+Comparing various ML models to perform Visual Speech Recognition on GRID dataset
